@@ -1,3 +1,3 @@
 # kinesisExamples
 
-Develope AWS kinesis examples
+Demonstrate AWS kinesis operation
